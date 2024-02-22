@@ -32,8 +32,8 @@
 
 To get a local copy of the code, clone it using git:
 
-```
-git clone https://github.com/SafdarJamal/crud-app.git
+``
+https://github.com/Shouravkumar21
 cd crud-app
 ```
 
